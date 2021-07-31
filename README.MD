@@ -25,6 +25,6 @@ _Write a program that counts the number of vowels and consonants in a given stri
 **Task 6. Counting the occurrences of a certain character.** 
 _Write a program that counts the occurrences of a given character in a given string._
 
-**Task 6. Converting a string to a value of type int, long, float or double.** 
+**Task 7. Converting a string to a value of type int, long, float or double.** 
 _Write a program that converts a given string object (representing a number) to an int, long, float, or double._
 
