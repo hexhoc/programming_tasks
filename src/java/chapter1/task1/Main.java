@@ -1,4 +1,4 @@
-package chapter1.task1;
+package java.chapter1.task1;
 
 import java.util.HashMap;
 import java.util.stream.Collectors;
@@ -19,7 +19,7 @@ public class Main {
 
     public static HashMap<String, Integer> countDublicatesChar(String str) {
 
-        HashMap<String, Integer> dupl = new HashMap<String, Integer>();
+        HashMap<String, Integer> dupl = new HashMap<>();
 
         int[] charsArr = str.chars().toArray();
         for(var charElement : charsArr) {

@@ -1,4 +1,4 @@
-package chapter1.task4;
+package java.chapter1.task4;
 
 public class Main {
     public static void main(String[] args) {
@@ -15,7 +15,7 @@ public class Main {
     }
 
     public static void isWordContainOnlyDigitV2(String str) {
-        Boolean result = !str.chars().anyMatch(i -> !Character.isDigit(i));
+        Boolean result = str.chars().anyMatch(i -> !Character.isDigit(i));
         System.out.println(result);
     }
 

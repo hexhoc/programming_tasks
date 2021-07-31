@@ -1,8 +1,5 @@
-package chapter1.task2;
+package java.chapter1.task2;
 
-import com.sun.source.tree.Tree;
-
-import java.util.TreeMap;
 import java.util.stream.Collectors;
 
 public class Main {

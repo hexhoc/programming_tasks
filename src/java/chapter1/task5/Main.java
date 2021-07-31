@@ -1,4 +1,4 @@
-package chapter1.task5;
+package java.chapter1.task5;
 
 import java.util.Arrays;
 import java.util.HashMap;
@@ -9,7 +9,7 @@ public class Main {
     }
 
     public static void countVowelAndConsonant(String str) {
-        HashMap<String, Long> result = new HashMap<String, Long>();
+        HashMap<String, Long> result = new HashMap<>();
 
         result.put("vowel", str.chars()
                 .filter(i -> isVowel((char) i))

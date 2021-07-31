@@ -1,4 +1,4 @@
-package chapter1.task3;
+package java.chapter1.task3;
 
 import java.util.HashMap;
 
@@ -10,7 +10,7 @@ public class Main {
 
     public static void invertWords(String str) {
         String[] wordsArray = str.split("[^A-Za-z0-9]");
-        HashMap<String, String> wordsMap = new HashMap<String, String>();
+        HashMap<String, String> wordsMap = new HashMap<>();
 
         for(String word : wordsArray) {
             StringBuilder strb = new StringBuilder(word);
