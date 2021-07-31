@@ -1,4 +1,4 @@
-package java.chapter1.task5;
+package javalang.chapter1.task5;
 
 import java.util.Arrays;
 import java.util.HashMap;

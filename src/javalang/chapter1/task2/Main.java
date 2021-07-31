@@ -1,4 +1,4 @@
-package java.chapter1.task2;
+package javalang.chapter1.task2;
 
 import java.util.stream.Collectors;
 

@@ -1,4 +1,4 @@
-package java.chapter1.task4;
+package javalang.chapter1.task4;
 
 public class Main {
     public static void main(String[] args) {

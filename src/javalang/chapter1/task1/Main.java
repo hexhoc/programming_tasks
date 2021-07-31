@@ -1,4 +1,4 @@
-package java.chapter1.task1;
+package javalang.chapter1.task1;
 
 import java.util.HashMap;
 import java.util.stream.Collectors;

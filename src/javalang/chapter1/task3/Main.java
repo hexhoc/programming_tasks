@@ -1,4 +1,4 @@
-package java.chapter1.task3;
+package javalang.chapter1.task3;
 
 import java.util.HashMap;
 
