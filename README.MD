@@ -28,3 +28,14 @@ _Write a program that counts the occurrences of a given character in a given str
 **Task 7. Converting a string to a value of type int, long, float or double.** 
 _Write a program that converts a given string object (representing a number) to an int, long, float, or double._
 
+**Task 8. Removing spaces from a string.** 
+_Write a program that removes all spaces from a given string._
+
+**Task 9. Concatenate multiple lines using a separator.** 
+_Write a program that concatenates the given strings using the given delimiter._
+
+**Task 10 Generation of all permutations.** 
+_Write a program that generates all permutations of a given string._
+
+
+
