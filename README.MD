@@ -34,7 +34,8 @@ _Write a program that removes all spaces from a given string._
 **Task 9. Concatenate multiple lines using a separator.** 
 _Write a program that concatenates the given strings using the given delimiter._
 
-**Task 10 Generation of all permutations.** 
+**Task 10 Generation of all permutations.**
+_Using the permutation of the letters of the given string, generate all possible variants of the string._
 _Write a program that generates all permutations of a given string._
 
 
