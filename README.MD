@@ -38,5 +38,6 @@ _Write a program that concatenates the given strings using the given delimiter._
 _Using the permutation of the letters of the given string, generate all possible variants of the string._
 _Write a program that generates all permutations of a given string._
 
-
+**Task 11. Checking that a string is a palindrome.** 
+_Write a program that finds out if a given string is a palindrome or not._
 
