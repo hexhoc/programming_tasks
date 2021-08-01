@@ -41,3 +41,17 @@ _Write a program that generates all permutations of a given string._
 **Task 11. Checking that a string is a palindrome.** 
 _Write a program that finds out if a given string is a palindrome or not._
 
+**Task 12. Removing duplicate characters.** 
+_Write a program that removes duplicate characters from a given string._
+
+
+
+
+
+
+
+
+
+
+
+
