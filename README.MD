@@ -53,7 +53,8 @@ _Write a program that finds the character with the most appearances in the given
 **Task 15. Sorting an array of strings by length:** 
 _Write a program that sorts by the length of the given array of strings._
 
-
+**Task 16. Checking that a string contains a substring:**
+_Write a program that checks whether the given string contains the given substring._
 
 
 
