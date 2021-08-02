@@ -47,7 +47,8 @@ _Write a program that removes duplicate characters from a given string._
 **Task 13. Removing given characters:** 
 _Write a program that removes the given character from the given string._
 
-
+**Task 14. Finding the character with the most appearances:** 
+_Write a program that finds the character with the most appearances in the given string._
 
 
 
