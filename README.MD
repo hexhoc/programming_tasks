@@ -56,9 +56,12 @@ _Write a program that sorts by the length of the given array of strings._
 **Task 16. Checking that a string contains a substring:**
 _Write a program that checks whether the given string contains the given substring._
 
+**Task 17. Counting substring occurrences a string:** 
+_Write a program that counts the occurrences of a given string in another given string._
 
-
-
+**Task 18. Checking whether two strings are anagrams:**
+_Write a program that checks whether two strings are anagrams. Consider that an anagram of a string is a permutation of
+this string by ignoring capitalization and white spaces._
 
 
 
