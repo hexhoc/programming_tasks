@@ -63,9 +63,11 @@ _Write a program that counts the occurrences of a given string in another given 
 _Write a program that checks whether two strings are anagrams. Consider that an anagram of a string is a permutation of
 this string by ignoring capitalization and white spaces._
 
+**Task 19. Declaring multiline strings (text blocks):** 
+_Write a program that declares multiline strings or text blocks._
 
-
-
+**Task 20. Concatenating the same string n times:** 
+_Write a program that concatenates the same string a given number of times._
 
 
 
