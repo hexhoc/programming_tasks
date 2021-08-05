@@ -69,8 +69,11 @@ _Write a program that declares multiline strings or text blocks._
 **Task 20. Concatenating the same string n times:** 
 _Write a program that concatenates the same string a given number of times._
 
+**Task 21. Removing leading and trailing spaces:** 
+_Write a program that removes the leading and trailing spaces of the given string._
 
-
+**Task 22. Finding the longest common prefix:** 
+_Write a program that finds the longest common prefix of given strings._
 
 
 
