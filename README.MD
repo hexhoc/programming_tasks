@@ -1,8 +1,7 @@
 This project based on book "Java. Coding problem" from Anjel Leonard.
 All project separate by book's chapter
 
-
-Переписывать описание всех задач первого раздела
+todo Set the complexity of the tasks
 
 ## Chapter 1. String, number and mathematics.
 
@@ -78,7 +77,8 @@ _Write a program that finds the longest common prefix of given strings._
 **Task 23. Applying indentation:** 
 _Write several snippets of code to apply indentation to the given text._
 
-
+**Task 24. Transforming strings:** 
+_Write several snippets of code to transform a string into another string using map() or transform() method_
 
 
 
