@@ -87,7 +87,8 @@ _Write several snippets of code to transform a string into another string using 
 **Task 25. Computing the minimum and maximum of two numbers:** 
 _Write a program that returns the minimum and maximum of two numbers._
 
-
+**Task 26. Summing two large int/long numbers and operation overflow:** 
+**Write a program that sums two large int/long numbers and throws an arithmetic exception in the case of an operation overflow.**
 
 
 
