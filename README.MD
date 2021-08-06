@@ -5,6 +5,8 @@ todo Set the complexity of the tasks
 
 ## Chapter 1. String, number and mathematics.
 
+### 1.1. String
+
 **Task 1. Counting repeated characters.** 
 _Write a program that counts the repeated characters in a given string._
 
@@ -80,7 +82,10 @@ _Write several snippets of code to apply indentation to the given text._
 **Task 24. Transforming strings:** 
 _Write several snippets of code to transform a string into another string using map() or transform() method_
 
+### 1.2. Number
 
+**Task 25. Computing the minimum and maximum of two numbers:** 
+_Write a program that returns the minimum and maximum of two numbers._
 
 
 
