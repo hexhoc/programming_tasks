@@ -75,6 +75,23 @@ _Write a program that removes the leading and trailing spaces of the given strin
 **Task 22. Finding the longest common prefix:** 
 _Write a program that finds the longest common prefix of given strings._
 
+**Task 23. Applying indentation:** 
+_Write several snippets of code to apply indentation to the given text._
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
