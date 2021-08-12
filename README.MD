@@ -102,8 +102,8 @@ _Write a program that compares the given two numbers as unsigned._
 **Task 30. Division and modulo of unsigned values:** 
 _Write a program that computes the division and modulo of the given unsigned value._
 
-Task 31. double/float is a finite floating-point value: 
-Write a program that determines whether the given double/float value is a finite floating-point value.
+**Task 31. double/float is a finite floating-point value:** 
+_Write a program that determines whether the given double/float value is a finite floating-point value._
 
 Task 32. Applying logical AND/OR/XOR to two boolean expressions: 
 Write a program that applies the logical AND/OR/XOR to two boolean expressions.
