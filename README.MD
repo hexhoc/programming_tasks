@@ -88,8 +88,46 @@ _Write several snippets of code to transform a string into another string using 
 _Write a program that returns the minimum and maximum of two numbers._
 
 **Task 26. Summing two large int/long numbers and operation overflow:** 
-**Write a program that sums two large int/long numbers and throws an arithmetic exception in the case of an operation overflow.**
+_Write a program that sums two large int/long numbers and throws an arithmetic exception in the case of an operation overflow._
 
+Task 27. String as an unsigned number in the radix: 
+Write a program that parses the given string into an unsigned number (int or long) in the given radix.
+
+Task 28. Converting into a number by an unsigned conversion: 
+Write a program that converts a given int number into long by an unsigned conversion. 
+
+Task 29. Comparing two unsigned numbers: 
+Write a program that compares the given two numbers as unsigned.
+
+Task 30. Division and modulo of unsigned values: 
+Write a program that computes the division and modulo of the given unsigned value.
+
+Task 31. double/float is a finite floating-point value: 
+Write a program that determines whether the given double/float value is a finite floating-point value.
+
+Task 32. Applying logical AND/OR/XOR to two boolean expressions: 
+Write a program that applies the logical AND/OR/XOR to two boolean expressions.
+
+Task 33. Converting BigInteger into a primitive type: 
+Write a program that extracts the primitive type value from the given BigInteger.
+
+Task 34. Converting long into int: 
+Write a program that converts long into int.
+
+Task 35. Computing the floor of a division and modulus:
+Write a program that computes the floor division and the floor modulus of the given dividend (x) and divisor (y).
+
+Task 36. Next floating-point value: 
+Write a program that returns the next floating-point adjacent to the given float/double value in the direction of positive and negative infinity.
+
+Task 37. Multiplying two large int/long values and operation overflow: 
+Write a program that multiplies two large int/long values and throws an arithmetic exception in the case of operation overflow.
+
+Task 38. Fused Multiply Add (FMA): 
+Write a program that takes three float/double values (a, b, c) and computes a * b + c in an efficient way.
+
+Task 39. Compact number formatting: 
+Write a program that formats the number 1,000,000 to 1M (US locale) and to 1 mln (Italian locale). In addition, parse 1M and 1 mln from a string into a number
 
 
 
