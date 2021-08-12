@@ -90,11 +90,11 @@ _Write a program that returns the minimum and maximum of two numbers._
 **Task 26. Summing two large int/long numbers and operation overflow:** 
 _Write a program that sums two large int/long numbers and throws an arithmetic exception in the case of an operation overflow._
 
-Task 27. String as an unsigned number in the radix: 
-Write a program that parses the given string into an unsigned number (int or long) in the given radix.
+**Task 27. String as an unsigned number in the radix:** 
+_Write a program that parses the given string into an unsigned number (int or long) in the given radix._
 
-Task 28. Converting into a number by an unsigned conversion: 
-Write a program that converts a given int number into long by an unsigned conversion. 
+**Task 28. Converting into a number by an unsigned conversion:** 
+_Write a program that converts a given int number into long by an unsigned conversion._ 
 
 Task 29. Comparing two unsigned numbers: 
 Write a program that compares the given two numbers as unsigned.
