@@ -96,8 +96,8 @@ _Write a program that parses the given string into an unsigned number (int or lo
 **Task 28. Converting into a number by an unsigned conversion:** 
 _Write a program that converts a given int number into long by an unsigned conversion._ 
 
-Task 29. Comparing two unsigned numbers: 
-Write a program that compares the given two numbers as unsigned.
+**Task 29. Comparing two unsigned numbers:** 
+_Write a program that compares the given two numbers as unsigned._
 
 Task 30. Division and modulo of unsigned values: 
 Write a program that computes the division and modulo of the given unsigned value.
