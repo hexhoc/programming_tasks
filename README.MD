@@ -111,8 +111,8 @@ Write a program that applies the logical AND/OR/XOR to two boolean expressions.
 **Task 33. Converting BigInteger into a primitive type:** 
 _Write a program that extracts the primitive type value from the given BigInteger._
 
-Task 34. Converting long into int: 
-Write a program that converts long into int.
+**Task 34. Converting long into int:** 
+_Write a program that converts long into int._
 
 Task 35. Computing the floor of a division and modulus:
 Write a program that computes the floor division and the floor modulus of the given dividend (x) and divisor (y).
