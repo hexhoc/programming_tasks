@@ -114,20 +114,20 @@ _Write a program that extracts the primitive type value from the given BigIntege
 **Task 34. Converting long into int:** 
 _Write a program that converts long into int._
 
-Task 35. Computing the floor of a division and modulus:
-Write a program that computes the floor division and the floor modulus of the given dividend (x) and divisor (y).
+**Task 35. Computing the floor of a division and modulus:**
+_Write a program that computes the floor division and the floor modulus of the given dividend (x) and divisor (y)._
 
-Task 36. Next floating-point value: 
-Write a program that returns the next floating-point adjacent to the given float/double value in the direction of positive and negative infinity.
+**Task 36. Next floating-point value:** 
+_Write a program that returns the next floating-point adjacent to the given float/double value in the direction of positive and negative infinity._
 
-Task 37. Multiplying two large int/long values and operation overflow: 
-Write a program that multiplies two large int/long values and throws an arithmetic exception in the case of operation overflow.
+**Task 37. Multiplying two large int/long values and operation overflow:** 
+_Write a program that multiplies two large int/long values and throws an arithmetic exception in the case of operation overflow._
 
-Task 38. Fused Multiply Add (FMA): 
-Write a program that takes three float/double values (a, b, c) and computes a * b + c in an efficient way.
+**Task 38. Fused Multiply Add (FMA):** 
+_Write a program that takes three float/double values (a, b, c) and computes a * b + c in an efficient way._
 
-Task 39. Compact number formatting: 
-Write a program that formats the number 1,000,000 to 1M (US locale) and to 1 mln (Italian locale). In addition, parse 1M and 1 mln from a string into a number
+**Task 39. Compact number formatting:** 
+_Write a program that formats the number 1,000,000 to 1M (US locale) and to 1 mln (Italian locale). In addition, parse 1M and 1 mln from a string into a number_
 
 
 
