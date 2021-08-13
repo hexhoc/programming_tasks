@@ -108,8 +108,8 @@ _Write a program that determines whether the given double/float value is a finit
 Task 32. Applying logical AND/OR/XOR to two boolean expressions: 
 Write a program that applies the logical AND/OR/XOR to two boolean expressions.
 
-Task 33. Converting BigInteger into a primitive type: 
-Write a program that extracts the primitive type value from the given BigInteger.
+**Task 33. Converting BigInteger into a primitive type:** 
+_Write a program that extracts the primitive type value from the given BigInteger._
 
 Task 34. Converting long into int: 
 Write a program that converts long into int.
