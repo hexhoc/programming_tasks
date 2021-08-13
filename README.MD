@@ -105,8 +105,8 @@ _Write a program that computes the division and modulo of the given unsigned val
 **Task 31. double/float is a finite floating-point value:** 
 _Write a program that determines whether the given double/float value is a finite floating-point value._
 
-Task 32. Applying logical AND/OR/XOR to two boolean expressions: 
-Write a program that applies the logical AND/OR/XOR to two boolean expressions.
+**Task 32. Applying logical AND/OR/XOR to two boolean expressions:** 
+_Write a program that applies the logical AND/OR/XOR to two boolean expressions._
 
 **Task 33. Converting BigInteger into a primitive type:** 
 _Write a program that extracts the primitive type value from the given BigInteger._
@@ -129,9 +129,61 @@ _Write a program that takes three float/double values (a, b, c) and computes a *
 **Task 39. Compact number formatting:** 
 _Write a program that formats the number 1,000,000 to 1M (US locale) and to 1 mln (Italian locale). In addition, parse 1M and 1 mln from a string into a number_
 
+## Chapter 2. Objects, Immutability, and Switch Expressions.
 
+**Task 40. Checking null references in functional style and imperative code:** 
+_Write a program that performs the null checks on the given references in a functional style and imperative code._
 
+**Task 41. Checking null references and throwing a customized NullPointerException error:** 
+_Write a program that performs the null checks on the given references and throws NullPointerException with custom messages._
 
+**Task 42. Checking null references and throwing the specified exception (example, IllegalArgumentException):** 
+_Write a program that performs the null checks on the given references and throws the specified exception._
+
+**Task 43. Checking null references and returning non-null default references:** 
+_Write a program that performs the null checks on the given reference, and if it is nonnull, then return it; otherwise, return a non-null default reference._
+
+**Task 44. Checking the index in the range from 0 to length:** 
+_Write a program that checks whether the given index is between 0 (inclusive) and the given length (exclusive). If the given index is out of the [0, given length] range, then throw IndexOutOfBoundsException._
+
+**Task 45. Checking the subrange in the range from 0 tolength:**
+_Write a program that checks whether thegiven subrange [given start, given end] is within thebounds of the range from [0, given length]. If the givensubrange is not in the [0, given length] range, thenthrow IndexOutOfBoundsException._
+
+**Task 46. equals() and hashCode():**
+_Explain and exemplify how equals()and hashCode() methods work in Java._
+
+**Task 47. Immutable objects in a nutshell:**
+_Explain andexemplify what is an immutable object in Java._
+
+**Task 48. Immutable string:**
+_Explain why the String class isimmutable._
+
+**Task 49. Writing an immutable class:**
+_Write a program thatrepresents an immutable class._
+
+**Task 50. Passing/returning mutable objects to/from animmutable class:**
+_Write a program that passes andreturns a mutable object to/from an immutable class._
+
+**Task 51. Writing an immutable class via the Builderpattern:**
+_Write a program that represents animplementation of the Builder pattern in an immutableclass._
+
+**Task 52. Avoiding bad data in immutable objects:**
+_Write aprogram that prevents bad data in immutable objects._
+
+**Task 53. Cloning objects:**
+_Write a program that exemplifiesshallow and deep cloning techniques._
+
+**Task 54. Overriding toString():**
+_Explain and exemplify practicesfor overriding toString()._
+
+**Task 55. switch expressions:**
+_Provide a brief overview ofthe switch expressions in JDK 12._
+
+**Task 56. Multiple case labels:**
+_Write a snippet of code forexemplifying the JDK 12 switch with multiple case labels._
+
+**Task 57. Statement blocks:**
+_Write a snippet of code forexemplifying the JDK 12 switch with case labels that pointto a curly-braced block._
 
 
 
