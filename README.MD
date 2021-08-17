@@ -135,6 +135,7 @@ _Write a program that formats the number 1,000,000 to 1M (US locale) and to 1 ml
 
 ## Chapter 2. Objects, Immutability, and Switch Expressions.
 
+### Exception and checking object
 **Task 40. Checking null references in functional style and imperative code:**
 _Write a program that performs the null checks on the given references in a functional style and imperative code._
 
