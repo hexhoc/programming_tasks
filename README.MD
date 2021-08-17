@@ -154,9 +154,9 @@ return a non-null default reference._
 _Write a program that checks whether the given index is between 0 (inclusive) and the given length (exclusive). If the
 given index is out of the [0, given length] range, then throw IndexOutOfBoundsException._
 
-**Task 45. Checking the subrange in the range from 0 tolength:**
-_Write a program that checks whether thegiven subrange [given start, given end] is within thebounds of the range
-from [0, given length]. If the givensubrange is not in the [0, given length] range, thenthrow
+**Task 45. Checking the subrange in the range from 0 to length:**
+_Write a program that checks whether the given subrange [given start, given end] is within the bounds of the range
+from [0, given length]. If the given subrange is not in the [0, given length] range, then throw
 IndexOutOfBoundsException._
 
 **Task 46. equals() and hashCode():**
