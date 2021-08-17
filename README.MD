@@ -160,10 +160,10 @@ from [0, given length]. If the given subrange is not in the [0, given length] ra
 IndexOutOfBoundsException._
 
 **Task 46. equals() and hashCode():**
-_Explain and exemplify how equals()and hashCode() methods work in Java._
+_Explain and exemplify how equals() and hashCode() methods work in Java._
 
 **Task 47. Immutable objects in a nutshell:**
-_Explain andexemplify what is an immutable object in Java._
+_Explain and exemplify what is an immutable object in Java._
 
 **Task 48. Immutable string:**
 _Explain why the String class isimmutable._
