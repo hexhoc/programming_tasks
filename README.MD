@@ -178,7 +178,7 @@ _Write a program that passes and returns a mutable object to/from an immutable c
 _Write a program that represents an implementation of the Builder pattern in an immutable class._
 
 **Task 52. Avoiding bad data in immutable objects:**
-_Write a program that prevents bad data in immutable objects._
+_Write a program that prevents bad data in immutable objects. Set constraint to the all field_
 
 **Task 53. Cloning objects:**
 _Write a program that exemplifies shallow and deep cloning techniques._
