@@ -171,11 +171,11 @@ _Explain why the String class is immutable._
 **Task 49. Writing an immutable class:**
 _Write a program that represents an immutable class._
 
-**Task 50. Passing/returning mutable objects to/from animmutable class:**
-_Write a program that passes andreturns a mutable object to/from an immutable class._
+**Task 50. Passing/returning mutable objects to/from an immutable class:**
+_Write a program that passes and returns a mutable object to/from an immutable class._
 
 **Task 51. Writing an immutable class via the Builderpattern:**
-_Write a program that represents animplementation of the Builder pattern in an immutableclass._
+_Write a program that represents an implementation of the Builder pattern in an immutableclass._
 
 **Task 52. Avoiding bad data in immutable objects:**
 _Write aprogram that prevents bad data in immutable objects._
