@@ -166,10 +166,10 @@ _Explain and exemplify how equals() and hashCode() methods work in Java._
 _Explain and exemplify what is an immutable object in Java._
 
 **Task 48. Immutable string:**
-_Explain why the String class isimmutable._
+_Explain why the String class is immutable._
 
 **Task 49. Writing an immutable class:**
-_Write a program thatrepresents an immutable class._
+_Write a program that represents an immutable class._
 
 **Task 50. Passing/returning mutable objects to/from animmutable class:**
 _Write a program that passes andreturns a mutable object to/from an immutable class._
