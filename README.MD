@@ -174,14 +174,14 @@ _Write a program that represents an immutable class._
 **Task 50. Passing/returning mutable objects to/from an immutable class:**
 _Write a program that passes and returns a mutable object to/from an immutable class._
 
-**Task 51. Writing an immutable class via the Builderpattern:**
-_Write a program that represents an implementation of the Builder pattern in an immutableclass._
+###**Task 51. Writing an immutable class via the Builder pattern:**
+_Write a program that represents an implementation of the Builder pattern in an immutable class._
 
 **Task 52. Avoiding bad data in immutable objects:**
-_Write aprogram that prevents bad data in immutable objects._
+_Write a program that prevents bad data in immutable objects._
 
 **Task 53. Cloning objects:**
-_Write a program that exemplifiesshallow and deep cloning techniques._
+_Write a program that exemplifies shallow and deep cloning techniques._
 
 **Task 54. Overriding toString():**
 _Explain and exemplify practicesfor overriding toString()._
