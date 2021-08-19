@@ -187,13 +187,13 @@ _Write a program that exemplifies shallow and deep cloning techniques._
 _Explain and exemplify practices for overriding toString()._
 
 **Task 55. switch expressions:**
-_Provide a brief overview ofthe switch expressions in JDK 12._
+_Provide a brief overview of the switch expressions in JDK 12._
 
 **Task 56. Multiple case labels:**
-_Write a snippet of code forexemplifying the JDK 12 switch with multiple case labels._
+_Write a snippet of code for exemplifying the JDK 12 switch with multiple case labels._
 
 **Task 57. Statement blocks:**
-_Write a snippet of code forexemplifying the JDK 12 switch with case labels that pointto a curly-braced block._
+_Write a snippet of code for exemplifying the JDK 12 switch with case labels that point to a curly-braced block._
 
 
 
