@@ -135,7 +135,6 @@ _Write a program that formats the number 1,000,000 to 1M (US locale) and to 1 ml
 
 ## Chapter 2. Objects, Immutability, and Switch Expressions.
 
-### Exception and checking object
 **Task 40. Checking null references in functional style and imperative code:**
 _Write a program that performs the null checks on the given references in a functional style and imperative code._
 
@@ -195,8 +194,49 @@ _Write a snippet of code for exemplifying the JDK 12 switch with multiple case l
 **Task 57. Statement blocks:**
 _Write a snippet of code for exemplifying the JDK 12 switch with case labels that point to a curly-braced block._
 
+## Chapter 3. Working with Date and Time.
 
 
+**58. Converting a string to date and time:**
+_Write a program that exemplifies conversions between a string and date/time._
+**59. Formatting date and time:**
+_Explain the format pattern for date and time._
+**60. Getting the current date/time without time/date:**
+_Write a program that extracts the current date without the time or date._
+**61. LocalDateTime from LocalDate and LocalTime:**
+_Write a program that builds a LocalDateTime from LocalDate object and LocalTime.It combines the date and time in a single LocalDateTime object._
+**62. Machine time via an Instant class:**
+_Explain and give an example of the Instant API._
+**63. Defining a period of time using date-based values (Period) and a duration of time using time based values (Duration):**
+_Explain and give an example of the usage of the Period and Duration APIs._
+**64. Getting date and time units:**
+_Write a program that extracts the date and time units (for example, extract from date the year, month, minute, and so on) from an object representing a date-time._
+**65. Adding and subtracting to/from a datetime:**
+_Write a program that adds (and subtracts) an amount of time (for example, years, days, or minutes)to a date-time object (for example, add an hour to date,subtract 2 days from LocalDateTime, and so on)._
+**66. Getting all time zones with UTC and GMT:**
+_Write a program that displays all the available time zones with UTC and GMT._
+**67. Getting the local date-time in all available timezones:**
+_Write a program that displays the local time inall the available time zones._
+**68. Displaying date-time information about a flight:**
+_Write a program that displays information about a scheduled flight time of 15 hours and 30minutes. More precisely, a flight from Perth, Australia to Bucharest, Europe._
+**69. Converting a Unix timestamp to date-time:**
+_Write a program that converts a Unix timestamp to java.util.Date and java.time.LocalDateTime._
+**70. Finding the first/last day of the month:**
+_Write a program that finds the first/last day of the month viaJDK 8, TemporalAdjusters._
+**71. Defining/extracting zone offsets:**
+_Write a program that reveals different techniques for defining and extracting zone offsets._
+**72. Converting between Date and Temporal:**
+_Write a program that converts between Date and Instant, LocalDate,LocalDateTime, and so on._
+**73. Iterating a range of dates:**
+_Write a program that iterates a range of given dates, day by day (with a step of a day)._
+**74. Calculating age:**
+_Write a program that calculates the age of a person._
+**75. Start and end of a day:**
+_Write a program that returns the start and end time of a day._
+**76. Difference between two dates:**
+_Write a program that calculates the amount of time, in days, between two dates._
+**77. Implementing a chess clock:**
+_Write a program that implements a chess clock._
 
 
 
