@@ -184,7 +184,7 @@ _Write a program that prevents bad data in immutable objects. Set constraint to 
 _Write a program that exemplifies shallow and deep cloning techniques._
 
 **Task 54. Overriding toString():**
-_Explain and exemplify practicesfor overriding toString()._
+_Explain and exemplify practices for overriding toString()._
 
 **Task 55. switch expressions:**
 _Provide a brief overview ofthe switch expressions in JDK 12._
